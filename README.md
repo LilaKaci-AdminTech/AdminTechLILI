@@ -1,6 +1,6 @@
 # 👩‍💼 Lila Kaci | Assistante Administrative Technique
 
-> Professionnelle organisée et polyvalente, possédant une solide expérience dans la gestion administrative, le secrétariat et la gestion documentaire. Maîtrise des outils informatiques, numériques et des plateformes de travail collaboratif pour optimiser l'organisation, le suivi des dossiers et la productivité au sein des structures.
+> Professionnelle organisée et polyvalente, possédant une solide expérience dans la gestion administrative, le secrétariat et la gestion documentaire. Maîtrise des outils informatiques, numériques et des plateformes de travail collaboratif pour optimiser l'organisation, le suivi des dossiers et la productivité au sein des structures.Passionnée et curieuse, j'ai développé une solide maîtrise des outils de gestion et de communication moderne en autodidacte. J'ai pris le temps de me former seule, en mode "learning by doing", pour être toujours à la pointe et ultra-opérationnelle sur les outils d'aujourd'hui. 
 
 ---
 
@@ -48,4 +48,4 @@
 ### 🚗 Informations Complémentaires
 
 * **Mobilité :** Titulaire du permis de conduire et véhiculée.
-* **Centres d'intérêt :** Littérature francophone, cinéma (films de survie, thrillers psychologiques).
+* **Centres d'intérêt :** Littérature francophone, cinéma , AutoCad , Revit
