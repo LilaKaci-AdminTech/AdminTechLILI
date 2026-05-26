@@ -12,6 +12,8 @@
 * **Réseaux Portails & Intranet :** ![Connecteam](https://img.shields.io/badge/Connecteam-0073EA?style=flat-square) ![Workvivo](https://img.shields.io/badge/Workvivo-FF4E00?style=flat-square)
 * **Support Visuel & Suivi :** ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![WhatsApp Business](https://img.shields.io/badge/WhatsApp_Business-25D366?style=flat-square&logo=whatsapp&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+> 💡 **Le petit plus :** L'ensemble de ces outils collaboratifs et de communication a été maîtrisé en **autodidacte**. Un profil curieux, agile et totalement autonome pour s'approprier les technologies de demain.
+
 ---
 
 ### 💼 Expériences Professionnelles
