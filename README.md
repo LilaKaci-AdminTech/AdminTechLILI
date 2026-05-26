@@ -1,16 +1,31 @@
+
 # 👩‍💼 Lila Kaci | Assistante Administrative Technique
 
-> Professionnelle organisée et polyvalente, possédant une solide expérience dans la gestion administrative, le secrétariat et la gestion documentaire. Maîtrise des outils informatiques, numériques et des plateformes de travail collaboratif pour optimiser l'organisation, le suivi des dossiers et la productivité au sein des structures.Passionnée et curieuse, j'ai développé une solide maîtrise des outils de gestion et de communication moderne en autodidacte. J'ai pris le temps de me former seule, en mode "learning by doing", pour être toujours à la pointe et ultra-opérationnelle sur les outils d'aujourd'hui. 
+> Professionnelle organisée et polyvalente, possédant une solide expérience dans la gestion administrative, le secrétariat et la gestion documentaire. Maîtrise des outils informatiques, numériques et des plateformes de travail collaboratif pour optimiser l'organisation, le suivi des dossiers et la productivité au sein des structures. Passionnée et curieuse, j'ai développé une solide maîtrise des outils de gestion et de communication moderne en autodidacte. J'ai pris le temps de me former seule, en mode "learning by doing", pour être toujours à la pointe et ultra-opérationnelle sur les outils d'aujourd'hui. 
 
 ---
 
 ### 🛠️ Outils & Compétences Numériques
 
-* **Bureautique, Stockage & Cloud :** ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google-workspace&logoColor=white) ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4?style=flat-square&logo=microsoftonedrive&logoColor=white) ![Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)
-* **Gestion de Projet & Planification :** ![Monday](https://img.shields.io/badge/Monday.com-00CFF4?style=flat-square&logo=monday.com&logoColor=black) ![Asana](https://img.shields.io/badge/Asana-27E19E?style=flat-square&logo=asana&logoColor=white) ![Calendly](https://img.shields.io/badge/Calendly-635BFF?style=flat-square&logo=calendly&logoColor=white)
-* **Communication & Collaboration d'Équipe :** ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white) ![Talkspirit](https://img.shields.io/badge/Talkspirit-Blue?style=flat-square) ![Loom](https://img.shields.io/badge/Loom-625DF5?style=flat-square&logo=loom&logoColor=white)
-* **Réseaux Portails & Intranet :** ![Connecteam](https://img.shields.io/badge/Connecteam-0073EA?style=flat-square) ![Workvivo](https://img.shields.io/badge/Workvivo-FF4E00?style=flat-square)
-* **Support Visuel & Suivi :** ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![WhatsApp Business](https://img.shields.io/badge/WhatsApp_Business-25D366?style=flat-square&logo=whatsapp&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+* **Bureautique, Stockage & Cloud :** [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://office.com)
+  [![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google-workspace&logoColor=white)](https://workspace.google.com)
+  [![OneDrive](https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)](https://onedrive.live.com)
+  [![Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com)
+
+* **Gestion de Projet & Planification :** [![Monday](https://img.shields.io/badge/Monday.com-00CFF4?style=for-the-badge&logo=monday.com&logoColor=black)](https://monday.com)
+  [![Asana](https://img.shields.io/badge/Asana-27E19E?style=for-the-badge&logo=asana&logoColor=white)](https://asana.com)
+  [![Calendly](https://img.shields.io/badge/Calendly-635BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com)
+
+* **Communication & Collaboration d'Équipe :** [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com)
+  [![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://teams.microsoft.com)
+  [![Loom](https://img.shields.io/badge/Loom-625DF5?style=for-the-badge&logo=loom&logoColor=white)](https://loom.com)
+
+* **Réseaux Portails & Intranet :** [![Connecteam](https://img.shields.io/badge/Connecteam-0073EA?style=for-the-badge&logoColor=white)](https://connecteam.com)
+  [![Workvivo](https://img.shields.io/badge/Workvivo-FF4E00?style=for-the-badge&logoColor=white)](https://workvivo.com)
+
+* **Support Visuel & Suivi :** [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://canva.com)
+  [![WhatsApp Business](https://img.shields.io/badge/WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/21377161056)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LilaKaci-AdminTech)
 
 > 💡 **Le petit plus :** L'ensemble de ces outils collaboratifs et de communication a été maîtrisé en **autodidacte**. Un profil curieux, agile et totalement autonome pour s'approprier les technologies de demain.
 
@@ -48,4 +63,12 @@
 ### 🚗 Informations Complémentaires
 
 * **Mobilité :** Titulaire du permis de conduire et véhiculée.
-* **Centres d'intérêt :** Littérature francophone, cinéma , AutoCad , Revit
+* **Centres d'intérêt :** Littérature francophone, cinéma, AutoCad, Revit
+
+---
+
+### 📬 Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lila-kaci)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/21377161056)
+[![Email](https://img.shields.io/badge/Email-laylaslimane%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laylaslimane@hotmail.com)
