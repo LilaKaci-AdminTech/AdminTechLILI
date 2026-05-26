@@ -1,6 +1,6 @@
 # 👩‍💼 Lila Kaci | Assistante Administrative Technique 
 
-> Professionnelle organisée et polyvalente, alliant une solide expérience dans la gestion administrative et une expertise dans l'enseignement du français. Maîtrise des outils numériques modernes pour optimiser l'organisation des structures.
+> Professionnelle organisée et polyvalente, alliant une solide expérience dans la gestion administrative et une Maîtrise des outils numériques modernes pour optimiser l'organisation des structures.
 
 ---
 
